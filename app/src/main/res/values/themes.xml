@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MaterialCats" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/material_dynamic_primary40</item>
+        <item name="colorPrimaryVariant">@color/material_dynamic_primary20</item>
+        <item name="colorOnPrimary">@color/material_dynamic_primary100</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/material_dynamic_secondary40</item>
+        <item name="colorSecondaryVariant">@color/material_dynamic_secondary20</item>
+        <item name="colorOnSecondary">@color/material_dynamic_secondary100</item>
+        <!-- Status bar color. -->
+        <item name="android:windowTranslucentStatus">true</item>
+
+        <!-- Customize your theme here. -->
+
+    </style>
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/material_dynamic_secondary90</item>
+    </style>
+</resources>

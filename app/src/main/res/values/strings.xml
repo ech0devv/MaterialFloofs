@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Floofs</string>
+    <string name="home">Home</string>
+    <string name="info">Favorites</string>
+    <string name="page_title">Material Floofs</string>
+    <string name="report_bug">Report an issue</string>
+    <string name="donate">Buy me a cinnamon roll</string>
+    <string name="nil_title"></string>
+    <string name="nil_desc"></string>
+    <string name="rolling_over_title">Rolling Over/Showing Stomach</string>
+    <string name="rolling_over_desc">Rolling over and showing their stomach is a way that cats show trust.</string>
+    <string name="rubbing_up_title">Rubbing Up Against You</string>
+    <string name="rubbing_up_desc">Rubbing up against you is one of the many ways that cats show affection. Bonus points if they rub their head multiple times and then follow through with the rest of their body.</string>
+    <string name="meow_title">Meowing</string>
+    <string name="meow_desc">Meowing is how cats try to get your attention (whether it be wanting your love &amp; affection, or showing pain, including physical pain, mental pain, or illness). It is understood that this noise came from cats replicating human babies, since they grab attention, but hey, believe what you want to.</string>
+    <string name="purr_title">Purring</string>
+    <string name="purr_desc">Purring is a way that cats show that they\'re content/happy. If your cat is purring while you\'re petting them, for example, it means that they like the way that you\'re petting them.</string>
+    <string name="hiss_title">Hissing</string>
+    <string name="hiss_desc">Hissing is a way that cats show that they dislike something (can also mean they\'re angry, especially when they\'re hissing at other cats.</string>
+</resources>
